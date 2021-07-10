@@ -8,5 +8,5 @@
 	pip install pandas
 
 # Criar o executavel
-	Para criar o executal com seu fonte. 
+	Para criar o executavel com seu fonte. 
 	pyinstaller --onefile Gabarito.py
